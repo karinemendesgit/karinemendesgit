@@ -1,5 +1,11 @@
+![github](https://user-images.githubusercontent.com/80694430/152067758-57f8a4b2-322f-4d2e-89b9-e7f0d464dc89.mp4)
+
 ### Hi there 👋, my name is Karine
 #### I'm a Front-end React Developer
+
+
+
+
 
 Skills: REACT / JavaScript / HTML / CSS / TypeScript / NodeJS / MySQL / Postgre / Database
 
