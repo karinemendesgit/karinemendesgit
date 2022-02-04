@@ -1,7 +1,7 @@
 [<img src='https://user-images.githubusercontent.com/80694430/152067758-57f8a4b2-322f-4d2e-89b9-e7f0d464dc89.mp4' alt='website' height='300' width='1000'>](https://karine-mendes.netlify.app) 
 
 ### Hi there 👋, my name is Karine
-#### I'm a Frontend React Developer
+#### I'm a Full Stack Developer
 
 
 
